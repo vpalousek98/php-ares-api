@@ -1,0 +1,19 @@
+{
+    "name": "pajdal97/ares-api",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vladimír Paloušek",
+            "email": "vpalousek98@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Ares": "src/"
+        }
+    }
+}
